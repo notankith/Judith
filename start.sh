@@ -6,7 +6,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Judit
 fi
-cd /PiroAutoFilterBot
+cd /Judith
 pip3 install -U -r requirements.txt
 echo "Starting Judith...."
 python3 bot.py
