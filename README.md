@@ -5,7 +5,7 @@
   <b>PiroAutoFilterBot</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PIRO+MOVIE+SEARCH+BOT+!;CREATED+BY+PIRO!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PIRO+MOVIE+SEARCH+BOT+!;CREATED+BY+ANKITH!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
 <a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/stargazers"><img src="https://img.shields.io/github/stars/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/network/members"> <img src="https://img.shields.io/github/forks/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
@@ -60,13 +60,13 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/info.py) for more
+* Check [info.py](https://github.com/notankith/judithblob/master/info.py) for more
 
 ### Deployment Methods
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ritheshrkrm/PiroAutoFilterBot">
+<a href="https://heroku.com/deploy?template=https://github.com/notankith/judith">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -86,7 +86,7 @@
 
 <details><summary>Deploy To Render</summary>
 <br>
-<a href="https://render.com/deploy?repo=https://github/ritheshrkrm/PiroAutoFilterBot/tree/master">
+<a href="https://render.com/deploy?repo=https://github/notankith/judith/tree/master">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -95,7 +95,7 @@
 <p>
 <pre>
 Use VPS Branch
-git clone https://github.com/ritheshrkrm/PiroAutoFilterBot
+git clone https://github.com/notankith/judith
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -135,22 +135,3 @@ unban  - to unban a use
 
 
 
-### Thanks to 
- - Thanks To EvaMaria Devs For Their AutoFIlterBot
- - Thanks To Me For Wasting Time On This Repo Instead Of Studying :)
-
- ### Note 🏷️
- - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
- - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/raixchat)
-
-### TELAGRAM SUPPORT 
-
-* [![PIRO BOTZ](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/piroxbots)
-
-
-
-### Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
