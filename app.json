@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ritheshrkrm/PiroAutoFilterBot",
-    "repository": "https://github.com/ritheshrkrm/PiroAutoFilterBot",
+    "website": "https://github.com/notankith",
+    "repository": "https://github.com/notankith/judith",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
