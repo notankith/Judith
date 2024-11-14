@@ -1,10 +1,9 @@
 class script(object):
-    START_TXT = """ℍ𝕖𝕪𝕪𝕒 {} 🧁
+    START_TXT = """Hola! {} 
 
-<b><u>𝖨'𝗆 𝖯𝗈𝗐𝖾𝗋𝖿𝗎𝗅 𝖠𝗎𝗍𝗈-𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍 Which Provides You With Movies/Series Files Of Your Request.</u></b>
-
-<i>𝖨𝗍𝗌 𝖤𝖺𝗌𝗒 𝖳𝗈 𝖴𝗌𝖾 𝖬𝖾; 𝖩𝗎𝗌𝗍 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇, 
-And. I'll provide Movies/Series There 💙...</i>
+<b><u>You Can Search Any Movie/Serie or Anime Files Via This Bot
+<i>Just Send Your Required Media Name And I Will Reply With The Files
+💙...</i>
 
 
 ⚠️ 𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖧𝗂𝗍 /help
