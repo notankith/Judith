@@ -20,6 +20,11 @@ from datetime import date, datetime
 import pytz
 from aiohttp import web
 from plugins import web_server
+from pyrogram import utils as pyroutils
+
+pyroutils.MIN_CHAT_ID = -999999999999
+pyroutils.MIN_CHANNEL_ID = -100999999999999
+
 
 class Bot(Client):
 
