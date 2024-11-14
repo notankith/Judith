@@ -237,4 +237,5 @@ Reinitialization Completed. Error log: clean. Systems Functional
 
 
     LOGO = """
-EXA BOTS"""
+Systems Initialized. 0 Error Logs Found. Stable And Functional v2.0.2
+and, Expertly Maintained By Ankith - because who else?😉"""
