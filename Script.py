@@ -1,9 +1,9 @@
 class script(object):
     START_TXT = """Hola! {} 
 
-<b><u>You Can Search Any Movie/Series or Anime Files Via This Bot<b/></u>
-<i>Just Send Your Required Media Name And i Will Reply With The Files</i>
-<i> For HELP use /help :) </i>
+<b><u>Want any movie, series, or anime? Send me the name and I’ll handle it.</b></u>
+
+<i>Need help? /help but you probably don’t."</i>
 """
 
     HELP_TXT = """🙋🏻‍♂️   Hola {} 🫶
