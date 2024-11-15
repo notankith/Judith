@@ -8,7 +8,7 @@ class script(object):
 
     HELP_TXT = """🙋🏻‍♂️   Hola {} 🫶
 
-<b>○ 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌</b>
+<b>Available Commands :)</b>
      
  /start - To Start The Bot.
  /info - User Info
