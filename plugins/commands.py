@@ -131,7 +131,7 @@ async def start(client, message):
                 file_id=file.file_id,
                 caption=f_caption,
                 protect_content=True if pre == 'filep' else False,
-                reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ EXA BOT𝖲 ⚔️', url="https://t.me/ExaBots") ] ] ),
+                reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ Exa Bots ⚔️', url="https://t.me/ExaBots") ] ] ),
             )
         return
     
