@@ -465,4 +465,4 @@ async def send_all(bot, userid, files, ident):
             file_id=file.file_id,
             caption=f_caption,
             protect_content=True if ident == "filep" else False,
-            reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ EXA BOTS ⚔️', url="https://t.me/ExaBots") ] ] ))
+            reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('⚔️ Exa Bots ⚔️', url="https://t.me/ExaBots") ] ] ))
